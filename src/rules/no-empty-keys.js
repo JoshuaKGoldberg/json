@@ -8,7 +8,7 @@
 //-----------------------------------------------------------------------------
 
 /** @typedef {"emptyKey"} NoEmptyKeysMessageIds */
-/** @typedef {import("../types.ts").JSONRuleDefinition<[], NoEmptyKeysMessageIds>} NoEmptyKeysRuleDefinition */
+/** @typedef {import("../types.d.ts").JSONRuleDefinition<[], NoEmptyKeysMessageIds>} NoEmptyKeysRuleDefinition */
 
 //-----------------------------------------------------------------------------
 // Rule Definition

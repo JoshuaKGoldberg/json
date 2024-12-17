@@ -8,7 +8,7 @@
 //-----------------------------------------------------------------------------
 
 /** @typedef {"duplicateKey"} NoDuplicateKeysMessageIds */
-/** @typedef {import("../types.ts").JSONRuleDefinition<[], NoDuplicateKeysMessageIds>} NoDuplicateKeysRuleDefinition */
+/** @typedef {import("../types.d.ts").JSONRuleDefinition<[], NoDuplicateKeysMessageIds>} NoDuplicateKeysRuleDefinition */
 /** @typedef {import("@humanwhocodes/momoa").MemberNode} MemberNode */
 
 //-----------------------------------------------------------------------------

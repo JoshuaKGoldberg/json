@@ -30,8 +30,8 @@ import {
 /** @typedef {import("@eslint/core").FileProblem} FileProblem */
 /** @typedef {import("@eslint/core").DirectiveType} DirectiveType */
 /** @typedef {import("@eslint/core").RulesConfig} RulesConfig */
-/** @typedef {import("../types.ts").IJSONSourceCode} IJSONSourceCode */
-/** @typedef {import("../types.ts").JSONSyntaxElement} JSONSyntaxElement */
+/** @typedef {import("../types.d.ts").IJSONSourceCode} IJSONSourceCode */
+/** @typedef {import("../types.d.ts").JSONSyntaxElement} JSONSyntaxElement */
 
 //-----------------------------------------------------------------------------
 // Helpers

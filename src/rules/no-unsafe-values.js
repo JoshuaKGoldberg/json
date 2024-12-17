@@ -8,7 +8,7 @@
 //-----------------------------------------------------------------------------
 
 /** @typedef {"unsafeNumber"|"unsafeInteger"|"unsafeZero"|"subnormal"|"loneSurrogate"} NoUnsafeValuesMessageIds */
-/** @typedef {import("../types.ts").JSONRuleDefinition<[], NoUnsafeValuesMessageIds>} NoUnsafeValuesRuleDefinition */
+/** @typedef {import("../types.d.ts").JSONRuleDefinition<[], NoUnsafeValuesMessageIds>} NoUnsafeValuesRuleDefinition */
 
 //-----------------------------------------------------------------------------
 // Helpers

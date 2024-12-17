@@ -16,8 +16,8 @@ export default {
 	plugins: [
 		copy({
 			targets: [
-				{ src: "src/types.ts", dest: "dist/cjs" },
-				{ src: "src/types.ts", dest: "dist/esm" },
+				{ src: "src/types.d.ts", dest: "dist/cjs" },
+				{ src: "src/types.d.ts", dest: "dist/esm" },
 			],
 		}),
 	],

@@ -21,8 +21,8 @@ import { visitorKeys } from "@humanwhocodes/momoa";
 /** @typedef {import("@eslint/core").OkParseResult<DocumentNode>} OkParseResult */
 /** @typedef {import("@eslint/core").ParseResult<DocumentNode>} ParseResult */
 /** @typedef {import("@eslint/core").File} File */
-/** @typedef {import("../types.ts").IJSONLanguage} IJSONLanguage */
-/** @typedef {import("../types.ts").JSONLanguageOptions} JSONLanguageOptions */
+/** @typedef {import("../types.d.ts").IJSONLanguage} IJSONLanguage */
+/** @typedef {import("../types.d.ts").JSONLanguageOptions} JSONLanguageOptions */
 
 //-----------------------------------------------------------------------------
 // Exports
